@@ -3,6 +3,7 @@
 📰   Reading & writing tech blogs whenever possible
 🍕   Hackathons & coding competitions
 
+![image](https://user-images.githubusercontent.com/59109267/113852949-c70f5180-97a5-11eb-9702-97e743d5458e.png)
 
 
 
