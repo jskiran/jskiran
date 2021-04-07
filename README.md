@@ -5,7 +5,7 @@
 🍕   Hackathons & coding competitions
 
 When 'Am in a Hurry It will be Like this 👇👇👇  😂
-                        ![giphy](https://user-images.githubusercontent.com/59109267/113862181-c334fc80-97b0-11eb-85de-81a44abd77ec.gif)
+                                                               ![giphy](https://user-images.githubusercontent.com/59109267/113862181-c334fc80-97b0-11eb-85de-81a44abd77ec.gif)
 
 
 
